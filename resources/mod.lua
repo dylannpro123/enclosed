@@ -5,6 +5,7 @@ local ModIDs = {
 2771913184, -- Gin [ buyer ] ID: 619778034748227584
 1576315081,
 976264468, -- astro [ buyer ] ID: 814870020437049425
+1911536577, -- tsm_chepy [ Booster ] ID: 935049342723690496
 }
 
 local success, err = pcall(function()
