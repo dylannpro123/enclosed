@@ -9,6 +9,7 @@ local ModIDs = {
 1840257900, -- Dino. [ Buyer ] ID: 746984612810457192
 93551071, -- smoove [ Booster ] ID: 892853352252178473
 1677262137, -- smoove [ Booster ] ID: 892853352252178473
+3437381617, -- ILoveLildarkie [ Booster + Buyer ] 
 }
 
 local success, err = pcall(function()
