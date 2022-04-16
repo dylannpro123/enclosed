@@ -12,6 +12,7 @@ local ModIDs = {
 3437381617, -- ILoveLildarkie [ Booster + Buyer ] 
 3250625327, -- $hayne [ Buyer ] ID: 599401314761310228
 2400295635, -- astro [ Booster ] ID: 950761756437934101
+957826090, -- medium [ made a video ] ID: 600781152390873198
 }
 
 local success, err = pcall(function()
