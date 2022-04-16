@@ -1,11 +1,11 @@
 if game.PlaceId == 2788229376 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/dylannpro123/enclosed/main/scripts/Da%20Hood.lua'))()
-elseif
-game.PlaceID == 9183932460 then
+    return
+elseif game.PlaceId == 9183932460 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/dylannpro123/enclosed/main/scripts/untitled%20hood.lua"))()
-elseif 
-game.PlaceID == 7800644383 then
+    return
+elseif game.PlaceId == 7800644383 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/dylannpro123/enclosed/main/scripts/untitled%20hood.lua"))()
-else
-    v:Kick("No script made for this game yet.")
+    return
 end
+game.Players.LocalPlayer:Kick("No script made for this game yet.")
