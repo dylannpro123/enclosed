@@ -1,6 +1,6 @@
 -- // Not a logger this will just make your discord open the enclosed server :O
 local http = game:GetService('HttpService')
-    local req = syn and syn.request or http and http and http.request or fluxus and flux.request
+    local request = http_request or request or HttpPost or syn.request
         if req then
             req({
                 Url = 'http://127.0.0.1:6463/rpc?v=1',
