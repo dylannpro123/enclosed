@@ -4,4 +4,4 @@
 *Best da hood script*
 ****Best Build a boat script****
 *previously pvpahh, falsely suspended. This is my new github.*
-*LEARN MORE ABOUT OUR LUA FRAMEWORKS @ DISCORD.GG/ENCLOSED *
+*LEARN MORE ABOUT OUR LUA FRAMEWORKS @ DISCORD.GG/ENCLOSED*
