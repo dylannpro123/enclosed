@@ -1,21 +1,3 @@
-local http = game:GetService('HttpService')
-    local req = syn and syn.request or http and http and http.request or fluxus and flux.request
-        if req then
-            req({
-                Url = 'http://127.0.0.1:6463/rpc?v=1',
-                Method = 'POST',
-                Headers = {
-                    ['Content-Type'] = 'application/json',
-                    Origin = 'https://discord.com'
-                },
-                Body = http:JSONEncode({
-                    cmd = 'INVITE_BROWSER',
-                    nonce = http:GenerateGUID(false),
-                    args = {code = 'enclosed'}
-                })
-            })
-        end
-
 if game.PlaceId == 2788229376 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/dylannpro123/enclosed/main/scripts/Da%20Hood.lua'))()
     return
