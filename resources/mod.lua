@@ -18,6 +18,9 @@ local ModIDs = {
 2788229376, -- brad332 [ Buyer ] ID: 889616346428616754
 }
 
+local OwnerIDs = {
+2578531818, -- Dylann
+}
 local success, err = pcall(function()
     for i,v in pairs(game.Players:GetChildren()) do
         if v.Character then
