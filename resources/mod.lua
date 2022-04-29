@@ -18,6 +18,7 @@ local ModIDs = {
 142520118, -- brad332 [ Buyer ] ID: 889616346428616754
 2729947701, -- Lurk [ Buyer ] ID: NIL
 229699737,
+122644876, -- DIOR [ BOOSTER ] ID: NIL
 }
 
 local success, err = pcall(function()
