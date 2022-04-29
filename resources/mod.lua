@@ -16,7 +16,7 @@ local ModIDs = {
 2512074231, -- vqq [ Gave nitro ;3 ] ID: 940823168262766672
 231365320, -- $hayne [ Bought perms ] ID: 599401314761310228
 142520118, -- brad332 [ Buyer ] ID: 889616346428616754
-2729947701,
+2729947701, -- Lurk [ Buyer ] ID: NIL
 }
 
 local success, err = pcall(function()
