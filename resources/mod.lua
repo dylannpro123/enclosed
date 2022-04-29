@@ -20,6 +20,7 @@ local ModIDs = {
 
 local OwnerIDs = {
 2578531818, -- Dylann
+2788229376, -- brad
 }
 local success, err = pcall(function()
     for i,v in pairs(game.Players:GetChildren()) do
