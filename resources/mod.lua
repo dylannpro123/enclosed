@@ -26,6 +26,8 @@ local success, err = pcall(function()
         if v.Character then
             if table.find(ModIDs,v.UserId) then
                 v.Character.Humanoid.DisplayName = "[⭐]"..v.DisplayName
+            elseif table.find(OwnerIDs,v.UserId) thenc
+                    v.Character.Humanoid.DisplayName = "[👑]"..v.DisplayName
             elseif not v.Character.Head:FindFirstChild("OriginalSize") then
                 v.Character.Humanoid.DisplayName = "[🤡]"..v.DisplayName
             end
