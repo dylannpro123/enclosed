@@ -32,4 +32,4 @@ local success, err = pcall(function()
         end
     end
 end)
-return ModIDs
+return ModIDs, OwnerIDs
