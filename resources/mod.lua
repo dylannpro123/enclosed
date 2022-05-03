@@ -24,6 +24,7 @@ local ModIDs = {
 962119063, -- zaxores [ CashApp ] ID: 938466691610992650
 856141316,
 2421598446,
+2624892174, -- cristal :O
 }
 
 local success, err = pcall(function()
