@@ -25,6 +25,7 @@ local ModIDs = {
 856141316,
 2421598446,
 2624892174, -- cristal :O
+3491670301,
 }
 
 local success, err = pcall(function()
