@@ -13,6 +13,10 @@
                   ░                                          ░                                                            
 
 Obfuscated to prevent skiddos.
+                                                   Any tampering or attempting to crack
+                                                        this script will result in a 
+                                                          blacklist of all enclosed
+                                                
 ]]
 
 -- This file was generated using Luraph Obfuscator v13.4.6
