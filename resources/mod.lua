@@ -45,6 +45,7 @@ local ModIDs = {
 90734753, -- Robux
 2707258503,
 154111318, -- Cashapp
+71229536,
 }
 
 local success, err = pcall(function()
