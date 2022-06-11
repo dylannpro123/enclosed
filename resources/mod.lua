@@ -50,6 +50,8 @@ local ModIDs = {
 546512748,
 20462347, -- robux
 413712803,
+3586827532, -- Booster ID: 956964339032653854
+3149721329, -- Booster ID: 956964339032653854
 }
 
 local success, err = pcall(function()
