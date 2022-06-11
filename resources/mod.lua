@@ -52,6 +52,7 @@ local ModIDs = {
 413712803,
 3586827532, -- Booster ID: 956964339032653854
 3149721329, -- Booster ID: 956964339032653854
+1812410913, -- Booster ID: 816284979277070376
 }
 
 local success, err = pcall(function()
