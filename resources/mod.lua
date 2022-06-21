@@ -1,5 +1,5 @@
 local ModIDs = {
-2578531818, -- Dylann [ friend ] ID: Private.
+2578531818, -- dusty [ co-own ] ID: unstated.
 3522308, -- joa [ buyer ] ID: 699236911679537202
 871072260, -- josh [ buyer ] ID: 363855519108300811
 2771913184, -- Gin [ buyer ] ID: 619778034748227584
