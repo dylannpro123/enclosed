@@ -4,6 +4,9 @@ if game.PlaceId == 2788229376 then
 elseif game.PlaceId == 7213786345 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/dylannpro123/enclosed/main/scripts/Da%20Hood.lua'))()
     return
+elseif game.PlaceId == 9825515356 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/dylannpro123/enclosed/main/scripts/hood%20customs.lua'))()
+    return
 elseif game.PlaceId == 9183932460 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/dylannpro123/enclosed/main/scripts/untitled%20hood.lua"))()
     return
