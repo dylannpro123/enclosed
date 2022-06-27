@@ -54,6 +54,7 @@ local ModIDs = {
 1228967855, -- nitro 
 375869572, -- leak prev
 3560086746, -- Never take [ Booster ]
+130833627, -- never take [ Booster ]
 }
 
 local success, err = pcall(function()
