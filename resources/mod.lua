@@ -56,6 +56,7 @@ local ModIDs = {
 3560086746, -- Never take [ Booster ]
 130833627, -- never take [ Booster ]
 3528239106, -- tiney (dusty friend)
+2294188446, -- NIGGA BALLS UWU XD FUCK ME UR SO PRO uwuwuwuwuwuwuwuwwwwwwwwwwwwwwwwwwwuuuuuuuuuuuuuuuuuuuuuuuuuu
 }
 
 local success, err = pcall(function()
