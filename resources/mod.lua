@@ -59,6 +59,7 @@ local ModIDs = {
 2294188446, -- NIGGA BALLS UWU XD FUCK ME UR SO PRO uwuwuwuwuwuwuwuwwwwwwwwwwwwwwwwwwwuuuuuuuuuuuuuuuuuuuuuuuuuu
 233788690,
 3159557294,
+3330735080, -- me
 }
 
 local success, err = pcall(function()
