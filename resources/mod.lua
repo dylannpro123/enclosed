@@ -1,5 +1,4 @@
 local ModIDs = {
-2578531818, -- dusty [ co-own ] ID: unstated.
 3522308, -- joa [ buyer ] ID: 699236911679537202
 871072260, -- josh [ buyer ] ID: 363855519108300811
 2771913184, -- Gin [ buyer ] ID: 619778034748227584
@@ -55,11 +54,11 @@ local ModIDs = {
 375869572, -- leak prev
 3560086746, -- Never take [ Booster ]
 130833627, -- never take [ Booster ]
-0, -- tiney (dusty friend)
+3528239106, -- tiney (dusty friend)
 2294188446, -- NIGGA BALLS UWU XD FUCK ME UR SO PRO uwuwuwuwuwuwuwuwwwwwwwwwwwwwwwwwwwuuuuuuuuuuuuuuuuuuuuuuuuuu
 233788690,
 3159557294, -- nom
-153542023,
+153542023, --refined
 }
 
 local success, err = pcall(function()
