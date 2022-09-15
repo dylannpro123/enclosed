@@ -1,6 +1,7 @@
 local cool = {
     2578531818,
     3733631470,
+    1
 }
 
 local url = game:HttpGet("http://38.242.134.182:3388/whitelists")
