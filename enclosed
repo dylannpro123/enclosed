@@ -19,5 +19,8 @@ elseif game.PlaceId == 7180042682 then
 elseif game.PlaceId == 537413528 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/dylannpro123/enclosed/main/scripts/build%20a%20boat%20for%20treasure.lua"))()
     return
+elseif game.PlaceId == 9824221333 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/dylannpro123/enclosed/main/scripts/Da%20Hood%20Aim%20Trainer.lua"))()
+    return
 end
 game.Players.LocalPlayer:Kick("No script made for this game yet.")
